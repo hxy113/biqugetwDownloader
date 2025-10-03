@@ -7,4 +7,4 @@
 
 话说世界上的笔趣阁这么多，好像没有两家的HTML样式是完全一样的，写爬虫的时候对每个网站都得改一改。
 
-也可在 greasyfork 上查看:[www.biquge.tw台湾笔趣阁小说下载器](https://greasyfork.org/zh-CN/scripts/551313-www-biquge-tw%E5%8F%B0%E6%B9%BE%E7%AC%94%E8%B6%A3%E9%98%81%E5%B0%8F%E8%AF%B4%E4%B8%8B%E8%BD%BD%E5%99%A8/code)
+也可在 greasyfork 上查看：[www.biquge.tw台湾笔趣阁小说下载器](https://greasyfork.org/zh-CN/scripts/551313-www-biquge-tw%E5%8F%B0%E6%B9%BE%E7%AC%94%E8%B6%A3%E9%98%81%E5%B0%8F%E8%AF%B4%E4%B8%8B%E8%BD%BD%E5%99%A8/code)
